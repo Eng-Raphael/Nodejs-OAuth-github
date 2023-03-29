@@ -1,4 +1,4 @@
 # Nodejs-OAuth-github
-#create .env file in the root directory and insert CLIENT_ID , CLIENT_SECRET ,REDIRECT_URI=http://localhost:3000/auth/github/callback in the file 
+#do not forget to insert your CLIENT_ID , CLIENT_SECRET  in the .env file 
 #clone the repo
 #run : npm install then node app.js
